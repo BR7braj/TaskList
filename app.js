@@ -1,5 +1,5 @@
 //Define UI vars
-
+// 7th April 2019
 const form = document.querySelector('#task-form');
 const taskList = document.querySelector('.collection');
 const clearBtn = document.querySelector('.clear-tasks');
